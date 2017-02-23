@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Curio</string>
+    <string name="title_item_detail">Item Detail</string>
+    <color name="blue">#2B3DA1</color>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Aki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_300e49cf8f72938c0fa8ec1f0713cdbede277ec0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7930ca4d19b496074939d3a63dd9e727d9a4e8ef">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61cb0992468a07de94a01a9be1805319bdef5749/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_b14ad39713db0581c4ccd1df255f88d9a4760f51/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_f924124bfbc038ee1675c819a979dbf2d698c1ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_e462283b93aaf16e47ffeeca6cebe978a07f15e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_06eff31908a9e50471c65dd3f94919b25ca57cd0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_763afcb535c41b6d0a3b16cc794236d592621b59/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="541508efab94941681bf1f1181f9d7e26a7a3a04">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c0f502976c4dafe8a29a2949757cbc27d388b2f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_85591eb0ae2d77dedd6f4536b4d368bec0152aa0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Aki/Desktop/Curio/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/Aki/Desktop/Curio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_202c4530f50d1ed38d0ac54453bf03145c1dc500/classes.dex" />
+    </item>
+
+</items>
